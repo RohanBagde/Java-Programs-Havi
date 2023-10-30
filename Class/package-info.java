@@ -1,0 +1,1 @@
+package Abstarct.Interface.Class;
